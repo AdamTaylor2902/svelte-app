@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Winbaji</string>
+    <string name="title_activity_main">Winbaji</string>
+    <string name="package_name">com.winbaji.user</string>
+    <string name="custom_url_scheme">com.winbaji.user</string>
+</resources>
